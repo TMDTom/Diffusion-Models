@@ -14,9 +14,24 @@ Learning for Diffusion Models
 
 | 文章名                                   | Link                                                         |
 | :--------------------------------------- | ------------------------------------------------------------ |
-| 马尔可夫链(Markov Chain)是什么？通俗易懂 | [https://blog.csdn.net/weixin_42509541/article/details/123332839](Linki) |
+| 马尔可夫链(Markov Chain)是什么？通俗易懂 | [Link](https://blog.csdn.net/weixin_42509541/article/details/123332839) |
+| 简述马尔可夫链【通俗易懂】               | [Link](https://zhuanlan.zhihu.com/p/448575579)               |
+
+扩散模型
 
 
 
+| 文章名                                                      | Link                                                         |
+| ----------------------------------------------------------- | ------------------------------------------------------------ |
+| 超详细的扩散模型（Diffusion Models）原理+代码               | [Link](https://zhuanlan.zhihu.com/p/624221952)               |
+| 【深度学习模型】扩散模型(Diffusion Model)基本原理及代码讲解 | [Link](https://blog.csdn.net/tobefans/article/details/129728036) |
+| KL散度                                                      | [Link](https://blog.csdn.net/qq_40406773/article/details/80630280) |
+| 个人学习笔记以及心得                                        |                                                              |
 
+### 论文链接以及代码链接
+
+| 文章名                                   | 链接                                     | code链接                                          |      |
+| ---------------------------------------- | ---------------------------------------- | ------------------------------------------------- | ---- |
+| Denoising Diffusion Probabilistic Models | [Link](https://arxiv.org/abs/2006.11239) | [Link](https://github.com/hojonathanho/diffusion) |      |
+|                                          |                                          |                                                   |      |
 
